@@ -1,2 +1,3 @@
 # scikit-wannabe
-A collection of algorithms written with learning purposes in a scikit-like fashion
+
+Some code tring to cover the main Data Science / Machine Learning Algorithms in a scikit-like fashion.
